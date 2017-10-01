@@ -1,0 +1,564 @@
+
+.text-xs-left { text-align: left; }
+.text-xs-right { text-align: right; }
+.text-xs-center { text-align: center; }
+.text-xs-justify { text-align: justify; }
+
+@media (min-width: 768px) {
+    .text-sm-left { text-align: left; }
+    .text-sm-right { text-align: right; }
+    .text-sm-center { text-align: center; }
+    .text-sm-justify { text-align: justify; }
+}
+
+@media (min-width: 992px) {
+    .text-md-left { text-align: left; }
+    .text-md-right { text-align: right; }
+    .text-md-center { text-align: center; }
+    .text-md-justify { text-align: justify; }
+}
+
+@media (min-width: 1200px) {
+    .text-lg-left { text-align: left; }
+    .text-lg-right { text-align: right; }
+    .text-lg-center { text-align: center; }
+    .text-lg-justify { text-align: justify; }
+}
+
+
+.body{
+	margin:0px;
+}
+
+/*     Begin Nav       */
+.navbar{
+	 background:transparent ;
+	 border: none;
+	font-family: 'Josefin Sans', sans-serif;
+	/*font-family: 'Yanone Kaffeesatz', sans-serif;*/
+	font-size: 15px;
+	font-weight: 300;
+	color: #fff;
+	
+	padding-top: 15px;
+	padding-bottom: 15px;
+	transition: all 0.3s ease;
+	-webkit-transition: all 0.3s ease;
+
+
+}
+
+.navbar-small{
+	background-color: #fff;
+	opacity: 0.9;
+	padding-top: 0;
+	padding-bottom: 0;
+	box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2)
+}
+
+.navbar-toggle {
+	border: none;
+}
+
+.navbar-toggle:hover{
+	background-color: #fff;
+	opacity: .5;
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #fff;
+}
+
+
+
+.navbar-default .navbar-nav>li>a{
+	color:#fff;
+}
+.navbar-right{
+	margin-right: 50px;
+}
+
+
+.logo_grey{
+	height:30px;
+	opacity: 0;
+	/*width:21.739px;*/
+	left:250%;
+	position: relative;
+	top: -5px;
+
+}
+/*-----End of Nav---------*/
+
+
+
+
+/*-------Begin Footer*/
+footer{
+	margin-top: 10px;
+
+}
+
+ul.social-buttons li a {
+	display: block;
+	width: 40px;
+	height: 40px;
+	border-radius: 100%;
+	font-size: 20px;
+	outline: 0px;
+	color: #fff;
+	background-color: #3F434A;
+	transition:all .3;
+	text-align: center;
+	padding-top: 5px;
+
+
+}
+
+ul.social-buttons li a:hover{
+	background-color:#EA626D;
+}
+
+.list-inline{
+	display: block;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 20px;
+
+
+}
+
+.copyright{
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	font-size: 0.9;
+	font-weight: 300;
+	color: #3F434A;
+	margin-bottom: 40px;
+}
+
+
+/*---Footer------*/
+
+/*------Begin Font-------*/
+
+
+.project_header{
+	position: relative;
+	top: 120px;
+}
+.header_text{
+	margin-top: 100px;
+	padding-left: 80px;
+	color: #fff;
+
+}
+
+.blockwhite{	
+	text-align: center;
+}
+
+.microsoft{
+	background-color:#4BBFF4 ;
+
+}
+
+.blockgrey{
+	background-color: #F5F4F3;
+	text-align: center;
+}
+
+.project_highlight{
+ /*height: 230px;*/
+	 font-family: 'Lato', sans-serif;
+	 background-color: #F5F4F3;
+	 color: #333;
+	 padding-top: 60px;
+	 border-bottom: 1px solid #CBCBCB;
+	 padding-bottom: 30px;
+	 padding-left: 100px;
+}
+
+.icon-session{
+  padding-left: 3%;
+  padding-left: 3%;
+
+}
+
+.title_line_1password{
+	width: 70px;
+	height: 50px;
+	border-bottom: 1px solid #36afe8;	
+	margin-left: 10%;	
+	margin-top: 50px;
+}
+
+.title_line_mint{
+	width: 70px;
+	height: 50px;
+	border-bottom: 1px solid #23C678;	
+	margin-left: 10%;	
+	margin-top: 50px;
+
+}
+
+.title_line_ebay{
+    width: 70px;
+	height: 50px;
+	border-bottom: 1px solid #FEC868;	
+	margin-left: 10%;	
+	margin-top: 50px;
+}
+
+
+.arrow-down{
+	width: 0; 
+	height: 0; 
+	border-left: 47vw solid transparent;
+	border-right: 47vw solid transparent;
+	
+	border-top: 150px solid  #f5f4f3;
+	display: block;
+	margin: auto;
+	z-index: 2;
+}
+
+/* Image */
+
+.img-fullscreen{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.img-center{
+	padding-bottom: 50px;
+	
+	margin-top: 0px;
+}
+
+.icon{
+	width: 20%;
+	display: block;
+	margin: auto;
+	padding-bottom: 20px;
+}
+
+video{
+	
+}
+
+border: 1px solid #CBCBCB;
+
+.prototype_video{
+	/*margin-left: 100px;*/
+	margin-top: 20px;
+	margin-bottom: -6px;
+}
+
+.prototype-video-mobile{
+	margin-top: 70px;
+	margin-bottom: 10px;
+}
+
+.video-center{
+	margin-bottom: 70px;
+	margin-top: 70px;
+}
+
+.carousel-inner > .item > a > img {
+      width: 100%;
+      margin: 0;
+  }
+
+ #myCarousel{
+  margin: 0;
+  padding-top:20px;
+}
+
+.fa-angle-left {
+padding-top: 250px;
+
+}
+.fa-angle-right {
+padding-top: 250px;
+
+}
+/* Beign Font*/
+
+h1{
+
+    font-family: 'Josefin Sans', sans-serif;
+	font-weight: 300;
+    font-size: 2.5em;
+    margin-left: 5%;
+
+}
+
+h2{
+
+	font-family: 'Lato', sans-serif;
+	font-weight: 200;
+	font-size: 20px;
+	margin-left: 5%;
+
+}
+
+h3{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	color: #737373;
+}
+
+
+
+h5{
+	/* Session Subtitle*/
+	font-size:0.9em;
+	color:#999;
+	text-transform: uppercase;
+	letter-spacing: 0.5em;
+	padding-top: 100px;
+	font-weight: 400;
+	font-family: 'Lato', sans-serif;
+}
+
+
+h4{ 
+	/* Session Title*/
+	font-family:'Raleway', sans-serif;
+	color: #4B4B4B;
+	font-weight: 300;
+	font-size: 1.8em;
+	padding-bottom: 30px;
+	padding-top: 20px;
+
+
+}
+
+
+p{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #333;
+}
+
+
+.content1{
+	font-size:16px;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 80px;
+    line-height: 1.75;
+
+}
+
+.project-highlight-text{
+	font-weight: 200;
+	font-size:14px;
+	line-height:1.5;
+
+}
+
+.content2{
+	font-weight: 200;
+	font-size:14px;
+	line-height:1.5;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 50px;
+}
+
+.content-left{
+	text-align: left;
+	padding-left: 50px;
+}
+
+.left-margin{
+	margin-left: 10%;
+}
+
+.carousel-caption{
+
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 25px;
+	color: #fff;
+	right: 5% ;
+	left:5%;
+	padding-bottom: 20px;
+
+
+}
+
+
+hr{
+	width: 100%;
+	border-top:1px solid #ddd;
+}
+
+.top-margin{
+
+
+
+}
+
+/*=====End Font======== */
+
+
+
+#password_header{
+	background-color: #36afe8;
+}
+
+#microsoft_header{
+	background-image: url("../Microsoft/header background.png");
+	padding-bottom: 80px;
+}
+
+#ebay_header{
+	background-color: #FEC868;
+
+
+}
+
+#EDP_header{
+	background-image: url("../EDP/img/header-background.png");
+	padding-bottom: 250px;
+}
+
+#microsoft-system{
+	background-image: url("../Microsoft/system background image.png");
+	margin-top: 0px;
+    background-size: cover;
+    background-position: center;
+	z-index: -5;
+}
+
+#mint_header{
+	background-color: #23C678;
+	padding-bottom: 120px;
+
+}
+
+
+/*-------Illustration---------*/
+#illustration{
+	margin-top: 100px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.illu-item{
+	padding-bottom: 20px;
+}
+
+.img-header{
+	padding: 0px;
+	/*height: 100vh;*/
+}
+
+
+/*------Coming Soon-----------*/
+#comingsoon-img{
+  height: 100vh;
+  background: -webkit-linear-gradient(#EE6C62, #E85E6F); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#EE6C62,#E85E6F); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#EE6C62, #E85E6F); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#EE6C62, #E85E6F); /* Standard syntax */
+}
+
+
+.img-bottom{
+    position: absolute;
+    bottom: 0px;
+    padding: 0px;
+}
+
+.img-top{
+	position: absolute;
+	top:5vh;
+	padding: 0px;
+}
+
+.text-middle{
+	position:absolute;
+	top: 35vh;
+	text-align: center;
+}
+   
+
+svg {
+  /*border: 3px solid #eee;*/
+  display: block;
+  margin: 1em auto;
+}
+
+.plane-animation{
+	position: absolute;
+	top: 20vh;
+	padding: 0px;
+
+
+}
+
+.button{
+	height: 35px;
+	width:200px;
+	/*border:#3F434A solid 2px;*/
+	text-transform: uppercase;
+	background-color:#3F434A;
+	margin-top:30px;
+
+	display: block;
+	margin:auto;
+	text-align: center;
+	padding-top:7px;
+	font-family: "Lato"sans-serif;
+	font-weight: 400;
+	margin-top: 30px;
+	color: #fff;
+
+}
+
+.button:hover{
+	text-decoration: none;
+	color: #fff;
+	background-color: #EA626D; 
+}
+
+/*  New Add */
+
+
+.p-left{
+	font-size:16px;
+	margin-left: 10%;
+	margin-right: 10%;
+	/*margin-bottom: 80px;*/
+	margin-top: 20%;
+    line-height: 1.75;
+    text-align: left;
+
+}
+
+.parallax-p{
+	color:#fff;
+	padding-top: 100px;
+}
+
+
+.parallax-window{
+    min-height: 400px;
+    background: transparent;
+}
+#ebay-problem{
+	margin-top: -50px;
+}
+
+.blockdark{
+	background-color: #393B3E;
+	text-align: center;
+	
+}
+
+.darkbackground{
+	color:#fff;
+}

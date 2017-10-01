@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="374px" height="225px" viewBox="0 0 374 225" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>Line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Line" sketch:type="MSArtboardGroup">
+            <circle id="Oval-35" stroke="#FFFFFF" stroke-width="2" fill-opacity="0.500849185" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="89.5" cy="190.5" r="6.5"></circle>
+            <rect id="Rectangle-30" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup" x="39" y="27" width="103" height="175" rx="7"></rect>
+            <rect id="Rectangle-31" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup" x="47.5" y="35" width="86" height="145"></rect>
+            <circle id="Oval-35-Copy" stroke="#FFFFFF" stroke-width="2" fill-opacity="0.495272871" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="286" cy="190.5" r="6.5"></circle>
+            <rect id="Rectangle-30-Copy" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup" x="234.5" y="27.5" width="103" height="175" rx="7"></rect>
+            <rect id="Rectangle-31-Copy" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup" x="243" y="35.5" width="86" height="145"></rect>
+            <g id="Rectangle-35-+-Rectangle-35-Copy-2-+-Rectangle-35-Copy" sketch:type="MSLayerGroup" transform="translate(250.500000, 46.000000)" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF">
+                <rect id="Rectangle-35" fill-opacity="0.515285326" sketch:type="MSShapeGroup" x="0" y="0" width="19" height="19" rx="4"></rect>
+                <rect id="Rectangle-35-Copy-2" fill-opacity="0.5" sketch:type="MSShapeGroup" x="50" y="0" width="19" height="19" rx="4"></rect>
+                <rect id="Rectangle-35-Copy" fill-opacity="0.5" sketch:type="MSShapeGroup" x="25" y="0" width="19" height="19" rx="4"></rect>
+            </g>
+            <g id="Rectangle-35-+-Rectangle-35-Copy-2-+-Rectangle-35-Copy-Copy" sketch:type="MSLayerGroup" transform="translate(250.500000, 72.000000)" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF" fill-opacity="0.5">
+                <rect id="Rectangle-35" sketch:type="MSShapeGroup" x="0" y="0" width="19" height="19" rx="4"></rect>
+                <rect id="Rectangle-35-Copy-2" sketch:type="MSShapeGroup" x="50" y="0" width="19" height="19" rx="4"></rect>
+                <rect id="Rectangle-35-Copy" sketch:type="MSShapeGroup" x="25" y="0" width="19" height="19" rx="4"></rect>
+            </g>
+            <g id="Rectangle-35-+-Rectangle-35-Copy-2-+-Rectangle-35-Copy-Copy-Copy" sketch:type="MSLayerGroup" transform="translate(250.500000, 100.000000)" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF" fill-opacity="0.5">
+                <rect id="Rectangle-35" sketch:type="MSShapeGroup" x="0" y="0" width="19" height="19" rx="4"></rect>
+                <rect id="Rectangle-35-Copy-2" sketch:type="MSShapeGroup" x="50" y="0" width="19" height="19" rx="4"></rect>
+                <rect id="Rectangle-35-Copy" sketch:type="MSShapeGroup" x="25" y="0" width="19" height="19" rx="4"></rect>
+            </g>
+            <rect id="Rectangle-32" stroke="#FFFFFF" stroke-width="2" sketch:type="MSShapeGroup" x="61" y="140" width="60" height="19"></rect>
+            <text id="Thank-you!" sketch:type="MSTextLayer" font-family="Lato" font-size="10" font-weight="260" fill="#FFFFFF">
+                <tspan x="67" y="152">Thank you!</tspan>
+            </text>
+            <g id="noun_108428_cc-(1)" sketch:type="MSLayerGroup" transform="translate(67.000000, 69.000000)" fill="#FFFFFF">
+                <path d="M44.3507195,0.553864865 L42.4649634,9.65502703 L0.599560976,9.65502703 L8.7222439,33.6222703 L37.4986829,33.6222703 L36.7063171,37.4477297 C34.8466829,37.554027 33.3079756,38.8625405 32.8558171,40.6080541 L17.7654146,40.6080541 C17.2939756,38.7873243 15.6408293,37.4352973 13.6729756,37.4352973 C11.3394146,37.4352973 9.44121951,39.3343514 9.44121951,41.6654324 C9.44121951,43.9977568 11.3394146,45.8955676 13.6729756,45.8955676 C15.6408293,45.8955676 17.2939756,44.5441622 17.7654146,42.7228108 L32.8551951,42.7228108 C33.3272561,44.5441622 34.9797805,45.8955676 36.9476341,45.8955676 C39.2818171,45.8955676 41.1800122,43.9977568 41.1800122,41.6654324 C41.1800122,39.9914054 40.1985732,38.5442703 38.7823902,37.8592432 L46.0741463,2.66862162 L50.401061,2.66862162 L50.401061,0.553864865 L44.3507195,0.553864865 L44.3507195,0.553864865 Z M13.6729756,43.7808108 C12.5068171,43.7808108 11.5570976,42.8328378 11.5570976,41.6660541 C11.5570976,40.4992703 12.5061951,39.5512973 13.6729756,39.5512973 C14.8397561,39.5512973 15.7888537,40.4992703 15.7888537,41.6660541 C15.7888537,42.8328378 14.8397561,43.7808108 13.6729756,43.7808108 L13.6729756,43.7808108 Z M6.28295122,19.8328378 L11.0371463,19.8328378 L11.0371463,24.8058108 L7.96843902,24.8058108 L6.28295122,19.8328378 L6.28295122,19.8328378 Z M13.1524024,19.8328378 L22.6738537,19.8328378 L22.6738537,24.8058108 L13.1524024,24.8058108 L13.1524024,19.8328378 L13.1524024,19.8328378 Z M24.7897317,17.7174595 L24.7897317,11.7697838 L34.3111829,11.7697838 L34.3111829,17.7174595 L24.7897317,17.7174595 L24.7897317,17.7174595 Z M34.3111829,19.8328378 L34.3111829,24.8058108 L24.7897317,24.8058108 L24.7897317,19.8328378 L34.3111829,19.8328378 L34.3111829,19.8328378 Z M22.6738537,17.7174595 L13.1524024,17.7174595 L13.1524024,11.7697838 L22.6738537,11.7697838 L22.6738537,17.7174595 L22.6738537,17.7174595 Z M22.6738537,26.9205676 L22.6738537,31.5075135 L13.1524024,31.5075135 L13.1524024,26.9205676 L22.6738537,26.9205676 L22.6738537,26.9205676 Z M24.7897317,26.9205676 L34.3111829,26.9205676 L34.3111829,31.5075135 L24.7897317,31.5075135 L24.7897317,26.9205676 L24.7897317,26.9205676 Z M36.427061,26.9205676 L38.7879878,26.9205676 L37.880561,31.5075135 L36.427061,31.5075135 L36.427061,26.9205676 L36.427061,26.9205676 Z M36.427061,24.8051892 L36.427061,19.8322162 L40.1898659,19.8322162 L39.206561,24.8051892 L36.427061,24.8051892 L36.427061,24.8051892 Z M40.608439,17.7174595 L36.427061,17.7174595 L36.427061,11.7697838 L41.7845488,11.7697838 L40.608439,17.7174595 L40.608439,17.7174595 Z M11.0365244,11.7704054 L11.0365244,17.7180811 L5.56584146,17.7180811 L3.55009756,11.7704054 L11.0365244,11.7704054 L11.0365244,11.7704054 Z M8.68430488,26.9205676 L11.0365244,26.9205676 L11.0365244,31.5075135 L10.2391829,31.5075135 L8.68430488,26.9205676 L8.68430488,26.9205676 Z M36.9476341,43.7808108 C35.7814756,43.7808108 34.8317561,42.8328378 34.8317561,41.6660541 C34.8317561,40.4992703 35.7814756,39.5512973 36.9476341,39.5512973 C38.1144146,39.5512973 39.0635122,40.4992703 39.0635122,41.6660541 C39.0635122,42.8328378 38.1144146,43.7808108 36.9476341,43.7808108 L36.9476341,43.7808108 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            </g>
+            <path d="M96,189.741299 L171.398202,189.741299 C179.543781,189.741306 188.787433,187.120612 188.787432,172.394015 C188.787431,157.667419 188.787432,116.842097 188.787432,116.842097 C188.787432,116.842097 191.253645,107.499999 202.634484,107.5 C214.015323,107.500001 250.5,107.5 250.5,107.5" id="Path-85" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="5" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
